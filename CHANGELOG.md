@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [2.0.13]
 - Ensure WordPress 6.9 compatibility on PHP 8.4
-- Drop support for PHP versions below 8.1
+- Show deprecation notice for PHP versions below 8.2
 
 ## [2.0.12]
 - Update Envato logo in the WordPress menu bar
