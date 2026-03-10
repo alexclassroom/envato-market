@@ -1,25 +1,33 @@
-# Copyright (C) 2024 Envato
+# Copyright (C) 2026 Envato
 # This file is distributed under the same license as the Envato Market package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Envato Market 2.0.12\n"
+"Project-Id-Version: Envato Market 2.0.13\n"
 "Report-Msgid-Bugs-To: Envato Support Team <support@envato.com>\n"
-"POT-Creation-Date: 2024-08-14 01:28:42+00:00\n"
+"POT-Creation-Date: 2026-03-09 06:19:52+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Envato Support Team <support@envato.com>\n"
 "Language-Team: Envato Support Team <support@envato.com>\n"
 "X-Generator: grunt-wp-i18n 1.0.3\n"
 
-#: envato-market.php:99
+#: envato-market.php:103
 msgid ""
-"The Envato Market plugin requires PHP version 5.4+, plugin is currently NOT "
+"The Envato Market plugin requires PHP version 7.0+, plugin is currently NOT "
 "ACTIVE. Please contact the hosting provider to upgrade the version of PHP."
 msgstr ""
 
-#: envato-market.php:118
+#: envato-market.php:127
+#. translators: %s: Current PHP version
+msgid ""
+"Envato Market: Your site is running PHP %s, which has reached end-of-life "
+"and no longer receives security updates. Please upgrade to PHP 8.2 or "
+"higher. Support for PHP versions below 8.2 will be removed in June 2026."
+msgstr ""
+
+#: envato-market.php:148
 msgid ""
 "Envato Market plugin is not installed correctly. Please delete this plugin "
 "and get the correct zip file from %s."

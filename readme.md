@@ -46,39 +46,5 @@ Please see https://www.envato.com/lp/market-plugin/ for more details.
 
 ## Change Log ##
 
-### v2.0.8
-- Ensure WordPress 6.1 compatibility
-- Fix blank page bug when items had no reviews
-
-### v2.0.7
-- Fix global notice hidden bug
-
-### v2.0.6
-- Add health check information to help diagnose common plugin issues
-
-### v2.0.5
-- Fix javascript compatibility with broken jQuery in 3rd party themes/plugins
-
-### v2.0.4
-- Fix javascript compatibility with WordPress 5.5
-
-### v2.0.3
-- Better error messages during API connectivity
-
-### v2.0.2
-- Better error messages during API connectivity
-
-### v2.0.1
-- Token permission checks
-- Fix for showing missing ratings
-- Multisite/Network mode support
-- Fix self-update check
-- Improved token generation feature
-
-#### v2.0.0
-- Various bug fixes
-- Compatibility with the new Envato API response format
-
-#### v1.0.0
-- Original release
+See [CHANGELOG.md](CHANGELOG.md) for the full history of changes.
 
